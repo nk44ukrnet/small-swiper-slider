@@ -1,4 +1,4 @@
-# Basic dragable swiper
+# Basic draggable swiper
 
 &gt;Styles in styles.css after comment __/* Necessary styles */__ are important
 
